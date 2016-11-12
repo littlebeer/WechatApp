@@ -1,37 +1,12 @@
 {
-  "pages": [
+  "pages":[
     "pages/index/index",
-    "pages/land/land",
     "pages/logs/logs"
   ],
-  "window": {
-    "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#7A753D",
-    "navigationBarTitleText": "记忆女神",
-    "navigationBarTextStyle": "light"
-  },
-  "tabBar": {
-    "borderStyle": "white",
-    "color": "7A753D",
-    "list": [
-      {
-        "pagePath": "pages/index/index",
-        "text": "训练",
-        "iconPath": "images/icons/xunlian_black.png",
-        "selectedIconPath": "images/icons/xunlian.png"
-      },
-      {
-        "pagePath": "pages/logs/logs",
-        "text": "分析",
-        "iconPath": "images/icons/fenxi_black.png",
-        "selectedIconPath": "images/icons/fenxi.png"
-      },
-      {
-        "pagePath": "pages/index/index",
-        "text": "管理",
-        "iconPath": "images/icons/guanli_black.png",
-        "selectedIconPath": "images/icons/guanli.png"
-      }
-    ]
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
   }
 }

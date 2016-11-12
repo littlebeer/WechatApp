@@ -25,7 +25,6 @@ App({
     }
   },
   globalData:{
-    userInfo:null,
-    hasLand:false
+    userInfo:null
   }
 })
